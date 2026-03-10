@@ -13,6 +13,10 @@ A **data-driven web application** for tracking outdoor running and cycling worko
 
 **Mapty** turns the browser into a personal workout log tied to real-world locations. Users grant location access once; the app then centers the map on their position and lets them place workouts by clicking on the map. Each workout stores coordinates, distance, duration, and—depending on type—cadence (running) or elevation gain (cycling). The sidebar lists all activities with computed stats (pace/speed), and list items are clickable to fly the map to that workout. A dark-themed UI, pill-style cards, and smooth animations provide a polished experience without sacrificing clarity or performance.
 
+![Mapty Tracker screenshot](mapty-tracker-screenshot.png)
+
+**Live Demo:** https://ahafez-mapty-tracker.netlify.app/
+
 ---
 
 ## Key Technical Implementation
