@@ -123,8 +123,4 @@ final/
 └── README.md     # This file
 ```
 
----
 
-## License & Attribution
-
-Original course project by **Jonas Schmedtmann**. Use for learning or your portfolio. Do not use to teach or claim as your own. Map tiles © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors and [CARTO](https://carto.com/attributions).
